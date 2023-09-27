@@ -1,0 +1,25 @@
+
+Pesquise sobre alguma extensão do VSCode que seja interessante para usar com os conceitos e ferramentas vistos até o momento, e explique porque escolheu ela. 
+Idealmente, procure extensões para facilitar ou automatizar a escrita de arquivos HTML e CSS, porém, pode considerar também o desenvolvimentos de projetos web com 
+VSCode de forma geral, ou a escrita de arquivos JavaScript se se sentir à vontade.
+
+
+
+
+Uma extensão interessante para facilitar a escrita de arquivos HTML e CSS no VSCode é a "Emmet". 
+Essa extensão permite que você escreva códigos HTML e CSS de forma mais rápida e produtiva, utilizando atalhos e abreviações.
+
+Com o Emmet, você pode digitar abreviações e pressionar a tecla Tab para expandi-las em código HTML completo. 
+Por exemplo, se você digitar "ul>li*5", o Emmet irá expandir isso em um código HTML com uma lista não ordenada contendo cinco itens.
+
+Além disso, o Emmet também oferece suporte a CSS. Você pode usar abreviações para escrever regras de estilo de forma mais rápida. 
+Por exemplo, "bgc" expande para "background-color" e "fs" expande para "font-size".
+
+Outra extensão útil para desenvolvimento de projetos web em geral é o "Live Server". 
+Essa extensão permite que você crie um servidor local e visualize suas páginas da web em tempo real, sem a necessidade de atualizar a página manualmente a cada alteração no código.
+
+Para a escrita de arquivos JavaScript, uma extensão popular é o "ESLint". Essa extensão ajuda a identificar e corrigir erros e padrões problemáticos no seu código 
+JavaScript, seguindo as regras configuradas no arquivo ".eslintrc" do seu projeto.
+
+Essas são apenas algumas das muitas extensões disponíveis para o VSCode que podem facilitar e automatizar o desenvolvimento de projetos web. Você pode explorar a loja de extensões do VSCode para encontrar outras opções que atendam às suas necessidades específicas.
+
